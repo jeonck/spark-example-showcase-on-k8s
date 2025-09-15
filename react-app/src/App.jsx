@@ -8,6 +8,7 @@ function App() {
           ⚡ Spark Example Showcase on K8s
         </h1>
         <p className="text-xl text-white/80 text-center mb-12">
+          Comprehensive Apache Spark examples running on Kubernetes infrastructure
           Apache Spark Examples Running on Kubernetes
         </p>
 
