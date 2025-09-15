@@ -19,7 +19,7 @@ function App() {
             </p>
             <div className="bg-black/20 rounded-lg p-3">
               <code className="text-green-300 text-sm">
-                spark.range(1000).filter(x => x % 2 == 0).count()
+                spark.range(1000).filter(x =&gt; x % 2 == 0).count()
               </code>
             </div>
           </div>
